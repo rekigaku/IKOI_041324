@@ -32,13 +32,18 @@ employee = [
 
 employee2 = [
     {
-        
         "name": "大西美穂子",
         "email": "mihoko@mail",
         "password": "tech0"
-          
+    },
+    {
+        "name": "山脇由子",
+        "email": "yuko@mail",
+        "password": "tech0"
     }
 ]
+
+
 
 data = [
     {
